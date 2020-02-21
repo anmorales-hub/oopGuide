@@ -15,3 +15,7 @@ In programming, these sets of information and actions can be thought of as data 
 <br>
 The first principle of object-oriented programming is **encapsulation**. In simple terms, encapsulation means that nothing outside of an object can directly access the data inside; it maintains a private state.
 However, the private variables of an object can still be modified by public methods. 
+<br>
+<br>
+**Polymorphism** is the last of the object-oriented programming principles. Imagine telling a dog, a spider, and a human to walk. Each of these creatures have a different number of legs, and as a result, they walk in different ways.
+Despite these differences, each creature can carry out the common task of walking, using different methods to do so. This is essentially polymorphism.

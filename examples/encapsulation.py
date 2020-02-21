@@ -1,4 +1,11 @@
 class Encapsulate:
-    test = "Hello World"
+    def helloWorld(self):
+        print("Hello World")
 
-print(test)
+    helloWorld()
+
+helloWorld()
+#not recognized as a function
+
+Encapsulate.helloWorld()
+#recognized as a function since the Encapsulate class is referred to
