@@ -7,6 +7,6 @@ print(square_root(225))
 #abstract square root application
 import math
 
-print(math.squareroot(225))
+print(math.sqrt(225))
 
 """by importing the math module, """

@@ -18,4 +18,4 @@ However, the private variables of an object can still be modified by public meth
 <br>
 <br>
 **Polymorphism** is the last of the object-oriented programming principles. Imagine telling a dog, a spider, and a human to walk. Each of these creatures have a different number of legs, and as a result, they walk in different ways.
-Despite these differences, each creature can carry out the common task of walking, using different methods to do so. This is essentially polymorphism.
+Despite these differences, each creature can carry out the common task of walking, using different methods to do so. This is essentially polymorphism. Although each function would perform the same task, they have different ways of doing so.
