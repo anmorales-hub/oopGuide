@@ -21,5 +21,9 @@ The next object-oriented programming principle is **abstraction.** The idea of a
 they would not need to know how the numbers are being added, only that the numbers will be added. Essentially, it's not caring about how a function works, only about what it does.
 <br>
 <br>
+**Inheritance** is the third object-oriented programming principle. Inheritance allows one class to copy, or inherit, all the methods, variables, etc. from another class. Imagine many different types of cars, for instance.
+While there are many types such as a Honda or a Lamborghini, they each derive a common set of properties from a base car class.
+<br>
+<br>
 **Polymorphism** is the last of the object-oriented programming principles. Imagine telling a dog, a spider, and a human to walk. Each of these creatures have a different number of legs, and as a result, they walk in different ways.
 Despite these differences, each creature can carry out the common task of walking, using different methods to do so. This is essentially polymorphism. Although each function would perform the same task, they have different ways of doing so.
