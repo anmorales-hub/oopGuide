@@ -17,5 +17,9 @@ The first principle of object-oriented programming is **encapsulation**. In simp
 However, the private variables of an object can still be modified by public methods. 
 <br>
 <br>
+The next object-oriented programming principle is **abstraction.** The idea of abstraction means that a person should only know the key elements of a program. For example, if someone has a code that takes 2 numbers and adds them together,
+they would not need to know how the numbers are being added, only that the numbers will be added. Essentially, it's not caring about how a function works, only about what it does.
+<br>
+<br>
 **Polymorphism** is the last of the object-oriented programming principles. Imagine telling a dog, a spider, and a human to walk. Each of these creatures have a different number of legs, and as a result, they walk in different ways.
 Despite these differences, each creature can carry out the common task of walking, using different methods to do so. This is essentially polymorphism. Although each function would perform the same task, they have different ways of doing so.
