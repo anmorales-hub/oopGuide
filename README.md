@@ -1,4 +1,4 @@
-https://travis-ci.org/anmorales-hub/oopGuide.svg?branch=master
+[![Build Status](https://travis-ci.org/anmorales-hub/oopGuide.svg?branch=master)](https://travis-ci.org/anmorales-hub/oopGuide)
 
 Python is an object-oriented programming language. This means it shares common characteristics with other OOP languages such as Java, C#, and PHP to name a few. 
 But what makes a languages object-oriented?
