@@ -1,12 +1,11 @@
-#un-abstract square root application
-def square_root(num):
-    return num^(1/2)
-
-print(square_root(225))
-
-#abstract square root application
 import math
 
-print(math.sqrt(225))
+class SquareRoot:
 
-"""by importing the math module, """
+    # un-abstract square root application
+    def squareRoot(base):
+        return base ^ (1 / 2)
+
+    #abstract square root app using math module
+    def squareRootA(base):
+        return math.sqrt(base)
